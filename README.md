@@ -1,4 +1,4 @@
-# 🛡️ Guardrails AI Demonstration
+#  Guardrails AI Demonstration
 
 This repository contains a comprehensive Jupyter Notebook demonstrating how to use **Guardrails AI** to add safety, reliability, and structural guarantees to Large Language Model (LLM) outputs. The notebook showcases how Guardrails can be used to validate responses, enforce schemas, detect unsafe or sensitive content, and integrate with external tools such as Microsoft Presidio and spaCy.
 
@@ -6,7 +6,7 @@ This project is part of my personal GitHub portfolio and highlights my practical
 
 ---
 
-## 📌 What is Guardrails AI?
+##  What is Guardrails AI?
 
 **Guardrails AI** is an open-source framework designed to:
 
@@ -26,7 +26,7 @@ It is commonly used in:
 
 ---
 
-## 🎯 Objectives of This Notebook
+##  Objectives of This Notebook
 
 This notebook demonstrates how to:
 
@@ -40,7 +40,7 @@ This notebook demonstrates how to:
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 ### 1. Schema Validation
 
@@ -102,7 +102,7 @@ Using **LiteLLM**, you can easily switch between providers.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool / Library     | Purpose                     |
 | ------------------ | --------------------------- |
@@ -145,7 +145,7 @@ jupyter notebook
 
 ---
 
-## 📓 Notebook Contents
+##  Notebook Contents
 
 The notebook walks through:
 
@@ -180,7 +180,7 @@ With automatic validation and correction.
 
 ---
 
-## 🔐 Why Guardrails Matters
+##  Why Guardrails Matters
 
 In production AI systems, **hallucinations and unsafe outputs are unacceptable**.
 
@@ -194,7 +194,7 @@ Guardrails helps by:
 
 ---
 
-## 🌟 Portfolio Value
+##  Portfolio Value
 
 This project demonstrates:
 
